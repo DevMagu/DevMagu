@@ -46,16 +46,6 @@ Una selección de mis últimos trabajos y aportaciones a la comunidad:
 
 ---
 
-## 📚 Lo que estás leyendo
-
-Actualmente estoy inmerso en:
-
-- [📖 **Libro/Título**](https://link-al-libro.com) - [Link]
-- [🎬 **Serie/Documental**](https://link-a-la-serie.com) - [Link]
-- [📝 **Artículo/Blog**](https://link-al-articulo.com) - [Link]
-
----
-
 ## 📬 Conectemos
 
 Siento en la necesidad de colaborar en proyectos de código abierto o hablar sobre tecnología.
@@ -64,7 +54,7 @@ Siento en la necesidad de colaborar en proyectos de código abierto o hablar sob
 
 | **Email** | **LinkedIn** | **GitHub** | **Twitter** |
 | :--- | :--- | :--- | :--- |
-| 📧 **[tu-email@ejemplo.com]** | [🔗 Link a LinkedIn] | [🐙 mi-usuario] | [@tu-tweet] |
+| 📧 **gutierrezalejandro731@gmail.com** | [[🔗 Link a LinkedIn]](https://www.linkedin.com/in/alejandro-gutierrez-martinez-301335305/)
 
 </div>
 
