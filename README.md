@@ -1,21 +1,22 @@
-# 👋 Hola, soy **[Tu Nombre]**
+# 👋 Hola, soy **Magu**
 
-[Una breve frase impactante sobre ti, ej: Ingeniero de Software apasionado por la creación de experiencias web / Desarrollador Backend 
-especializado en escalar sistemas].
+**Desarrollador FullStack apasionado por la creación de experiencias web / Desarrollador Backend 
+especializado en escalar sistemas.**
 
 <div align="center">
   
-  🌱 Estoy aprendiendo sobre **[Tecnología que quieres aprender]**.
-  🌟 Actualmente enfocado en **[Tu interés principal o Stack principal]**.
+  🌱 Estoy aprendiendo sobre **Java**. <br>
+  🌟 Actualmente enfocado en **Next.JS, React, TypeScript, Tailwind**.
   
   <br>
   📫 <a href="mailto:[tu-correo@ejemplo.com]">¡Contáctame para trabajos! 💼</a>
   <br>
   
   <!-- Puedes borrar esta línea si no quieres el avatar flotante -->
-  <img src="https://github.com/[tu-usuario-github].png?size=100" alt="Foto de perfil" align="right" width="100px">
+  <img src="https://github.com/DevMagu.png?size=100" alt="Foto de perfil" align="right" width="100px">
 
 </div>
+<br><br>
 
 ---
 
@@ -26,23 +27,9 @@ Soy un desarrollador especializado en crear soluciones digitales eficientes y es
 <details>
 <summary>👇 Ver mi stack tecnológico</summary>
 
-- **🧠 Idiomas:**
-- **🛠️ Herramientas:**
-- **📚 Conocimientos:**
+- **🧠 Idiomas: Next.JS, JavaScript/TypeScript, HTML, CSS, Java, React, Node.JS**
 
 </details>
-
----
-
-## 💻 Proyectos Destacados
-
-Una selección de mis últimos trabajos y aportaciones a la comunidad:
-
-| Proyecto | Descripción | Enlace |
-| :--- | :--- | :--- |
-| **[Nombre del Proyecto]** | [Breve descripción de qué hace y los problemas que soluciona] | **[Link al Repo/Demo]** |
-| **[Nombre del Proyecto]** | [Breve descripción de qué hace y los problemas que soluciona] | **[Link al Repo/Demo]** |
-| **[Nombre del Proyecto]** | [Breve descripción de qué hace y los problemas que soluciona] | **[Link al Repo/Demo]** |
 
 ---
 
@@ -52,9 +39,9 @@ Siento en la necesidad de colaborar en proyectos de código abierto o hablar sob
 
 <div align="center">
 
-| **Email** | **LinkedIn** | **GitHub** | **Twitter** |
-| :--- | :--- | :--- | :--- |
-| 📧 **gutierrezalejandro731@gmail.com** | [[🔗 Link a LinkedIn]](https://www.linkedin.com/in/alejandro-gutierrez-martinez-301335305/)
+| **LinkedIn** | **GitHub** |
+| :--- | :--- |
+| [[🔗 Link a LinkedIn]](https://www.linkedin.com/in/alejandro-gutierrez-martinez-301335305/) | [[🔗 Link a GitHub]](https://github.com/DevMagu)
 
 </div>
 
