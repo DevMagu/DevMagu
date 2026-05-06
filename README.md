@@ -9,7 +9,9 @@ especializado en Java.**
   🌟 Actualmente enfocado en **Next.JS, React, TypeScript, Tailwind**.
   
   <br>
-  📫 Email: gutierrezalejandro731@gmail.com - **¡Contáctame para trabajos!** 💼
+  💼 ¡Contáctame para trabajos!
+  <br><br>
+  📫 Email: gutierrezalejandro731@gmail.com
   <br>
   
   <!-- Puedes borrar esta línea si no quieres el avatar flotante -->
