@@ -1,7 +1,7 @@
 # 👋 Hola, soy **Magu**
 
 **Desarrollador FullStack apasionado por la creación de experiencias web / Desarrollador Backend 
-especializado en escalar sistemas.**
+especializado en Java.**
 
 <div align="center">
   
