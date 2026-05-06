@@ -11,7 +11,7 @@ especializado en Java.**
   <br>
   💼 ¡Contáctame para trabajos!
   <br><br>
-  📫 Email: gutierrezalejandro731@gmail.com
+  📫 Email de contacto: gutierrezalejandro731@gmail.com
   <br>
   
   <!-- Puedes borrar esta línea si no quieres el avatar flotante -->
